@@ -1,8 +1,9 @@
 {
     "manifest": {
-        "version": "1.0.0",
+        "version": "1.0.1",
         "author": "Marsy#9998",
-        "name": "uvu"
+        "name": "uvu",
+        "updater": "https:\/\/raw.githubusercontent.com\/MarsyChan\/uvu\/main\/uvu.json"
     },
     "background": {
         "url": "https:\/\/i.imgur.com\/laweXRy.png",
